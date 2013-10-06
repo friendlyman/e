@@ -19,7 +19,7 @@
             </div>
             <div data-role="content" data-theme="b" class="ui-corner-bottom ui-content">
                 <h3 class="ui-title">Al Ahli Holding Group - ICT</h3>
-                <p>is a dynamic group of companies that was formed over 40 years ago and has since evolved into a 
+                <p>Is a dynamic group of companies that was formed over 40 years ago and has since evolved into a 
                     multi-disciplined corporation with a diverse portfolio of activities ranging from real estate 
                     to turnkey construction, engineering products and factories, shopping malls and retail, cement 
                     and printing, plastic manufacturing and logistics, mining and fuel trading, and strategic and 
