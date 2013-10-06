@@ -19,7 +19,7 @@
             </div>
             <div data-role="content" data-theme="b" class="ui-corner-bottom ui-content">
                 <h3 class="ui-title">Mobile School E-Learning App</h3>
-                <p>multipurpose school management software which is used for all administration, 
+                <p>Multipurpose school management software which is used for all administration, 
                    management and learning related activities. 
                    
                    Use eLearning management information system to manage students, 
